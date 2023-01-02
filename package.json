@@ -1,0 +1,22 @@
+{
+  "name": "229052_palash_kardhekar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Palash096/229052_Palash_Kardhekar.git"
+  },
+  "author": "Palash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Palash096/229052_Palash_Kardhekar/issues"
+  },
+  "homepage": "https://github.com/Palash096/229052_Palash_Kardhekar#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
